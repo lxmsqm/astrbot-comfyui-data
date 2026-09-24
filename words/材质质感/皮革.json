@@ -1,0 +1,82 @@
+[
+  {
+    "name": "皮革",
+    "tags": "leather",
+    "category": "材质质感"
+  },
+  {
+    "name": "黑色皮革",
+    "tags": "black leather",
+    "category": "材质质感"
+  },
+  {
+    "name": "棕色皮革",
+    "tags": "brown leather",
+    "category": "材质质感"
+  },
+  {
+    "name": "漆皮",
+    "tags": "patent leather",
+    "category": "材质质感"
+  },
+  {
+    "name": "哑光皮革",
+    "tags": "matte leather",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革光泽",
+    "tags": "leather sheen",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革束带",
+    "tags": "leather straps",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革项圈",
+    "tags": "leather collar",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革手套",
+    "tags": "leather gloves",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革长靴",
+    "tags": "leather boots",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革夹克",
+    "tags": "leather jacket",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革裙",
+    "tags": "leather skirt",
+    "category": "材质质感"
+  },
+  {
+    "name": "皮革马甲",
+    "tags": "leather vest",
+    "category": "材质质感"
+  },
+  {
+    "name": "麂皮",
+    "tags": "suede",
+    "category": "材质质感"
+  },
+  {
+    "name": "蛇皮纹",
+    "tags": "snakeskin",
+    "category": "材质质感"
+  },
+  {
+    "name": "鳄鱼纹",
+    "tags": "crocodile texture",
+    "category": "材质质感"
+  }
+]

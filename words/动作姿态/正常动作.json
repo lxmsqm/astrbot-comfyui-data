@@ -1,0 +1,1247 @@
+[
+  {
+    "name": "躺卧",
+    "tags": "lying down",
+    "category": "general"
+  },
+  {
+    "name": "跪姿",
+    "tags": "kneeling",
+    "category": "general"
+  },
+  {
+    "name": "行走",
+    "tags": "walking",
+    "category": "general"
+  },
+  {
+    "name": "奔跑",
+    "tags": "running",
+    "category": "general"
+  },
+  {
+    "name": "跳跃",
+    "tags": "jumping",
+    "category": "general"
+  },
+  {
+    "name": "翘腿",
+    "tags": "legs crossed",
+    "category": "general"
+  },
+  {
+    "name": "抱臂",
+    "tags": "arms crossed",
+    "category": "general"
+  },
+  {
+    "name": "手叉腰",
+    "tags": "hand on hip",
+    "category": "general"
+  },
+  {
+    "name": "手背在身后",
+    "tags": "hands behind back",
+    "category": "general"
+  },
+  {
+    "name": "托腮",
+    "tags": "chin on hand",
+    "category": "general"
+  },
+  {
+    "name": "伸手",
+    "tags": "reaching",
+    "category": "general"
+  },
+  {
+    "name": "挥手",
+    "tags": "waving",
+    "category": "general"
+  },
+  {
+    "name": "指向",
+    "tags": "pointing",
+    "category": "general"
+  },
+  {
+    "name": "点头",
+    "tags": "head tilt",
+    "category": "general"
+  },
+  {
+    "name": "舞蹈",
+    "tags": "dancing",
+    "category": "general"
+  },
+  {
+    "name": "伸展",
+    "tags": "stretching",
+    "category": "general"
+  },
+  {
+    "name": "前倾",
+    "tags": "leaning forward",
+    "category": "general"
+  },
+  {
+    "name": "摆姿势",
+    "tags": "posing",
+    "category": "general"
+  },
+  {
+    "name": "冲刺",
+    "tags": "sprinting",
+    "category": "general"
+  },
+  {
+    "name": "慢跑",
+    "tags": "jogging",
+    "category": "general"
+  },
+  {
+    "name": "飞跃",
+    "tags": "leaping",
+    "category": "general"
+  },
+  {
+    "name": "攀爬",
+    "tags": "climbing",
+    "category": "general"
+  },
+  {
+    "name": "跳水",
+    "tags": "diving",
+    "category": "general"
+  },
+  {
+    "name": "潜行",
+    "tags": "sneaking",
+    "category": "general"
+  },
+  {
+    "name": "疾冲",
+    "tags": "dashing",
+    "category": "general"
+  },
+  {
+    "name": "战斗姿态",
+    "tags": "fighting stance",
+    "category": "全身动作"
+  },
+  {
+    "name": "飞行",
+    "tags": "flying",
+    "category": "全身动作"
+  },
+  {
+    "name": "游泳",
+    "tags": "swimming",
+    "category": "全身动作"
+  },
+  {
+    "name": "坠落",
+    "tags": "falling",
+    "category": "全身动作"
+  },
+  {
+    "name": "漂浮",
+    "tags": "floating",
+    "category": "全身动作"
+  },
+  {
+    "name": "回头",
+    "tags": "looking back",
+    "category": "全身动作"
+  },
+  {
+    "name": "持武器",
+    "tags": "holding weapon",
+    "category": "全身动作"
+  },
+  {
+    "name": "旋转",
+    "tags": "spinning",
+    "category": "全身动作"
+  },
+  {
+    "name": "回旋",
+    "tags": "twirling",
+    "category": "全身动作"
+  },
+  {
+    "name": "踢",
+    "tags": "kicking",
+    "category": "全身动作"
+  },
+  {
+    "name": "出拳",
+    "tags": "punching",
+    "category": "全身动作"
+  },
+  {
+    "name": "射箭",
+    "tags": "archery",
+    "category": "全身动作"
+  },
+  {
+    "name": "射击",
+    "tags": "shooting",
+    "category": "全身动作"
+  },
+  {
+    "name": "瞄准",
+    "tags": "aiming",
+    "category": "全身动作"
+  },
+  {
+    "name": "吃东西",
+    "tags": "eating",
+    "category": "全身动作"
+  },
+  {
+    "name": "喝东西",
+    "tags": "drinking",
+    "category": "全身动作"
+  },
+  {
+    "name": "演奏乐器",
+    "tags": "playing instrument",
+    "category": "全身动作"
+  },
+  {
+    "name": "打字",
+    "tags": "typing",
+    "category": "全身动作"
+  },
+  {
+    "name": "写字",
+    "tags": "writing",
+    "category": "全身动作"
+  },
+  {
+    "name": "画画",
+    "tags": "drawing",
+    "category": "全身动作"
+  },
+  {
+    "name": "做饭",
+    "tags": "cooking",
+    "category": "全身动作"
+  },
+  {
+    "name": "打扫",
+    "tags": "cleaning",
+    "category": "全身动作"
+  },
+  {
+    "name": "站立",
+    "tags": "standing",
+    "category": "general"
+  },
+  {
+    "name": "坐姿",
+    "tags": "sitting",
+    "category": "general"
+  },
+  {
+    "name": "跳跃前进",
+    "tags": "skipping",
+    "category": "action"
+  },
+  {
+    "name": "手抚脸",
+    "tags": "hand on face",
+    "category": "action"
+  },
+  {
+    "name": "牵手",
+    "tags": "holding hands",
+    "category": "action"
+  },
+  {
+    "name": "敬礼",
+    "tags": "salute",
+    "category": "action"
+  },
+  {
+    "name": "点赞",
+    "tags": "thumbs up",
+    "category": "action"
+  },
+  {
+    "name": "剪刀手",
+    "tags": "peace sign",
+    "category": "action"
+  },
+  {
+    "name": "手持",
+    "tags": "holding",
+    "category": "action"
+  },
+  {
+    "name": "祈祷手",
+    "tags": "praying hands",
+    "category": "action"
+  },
+  {
+    "name": "鼓掌",
+    "tags": "clapping",
+    "category": "action"
+  },
+  {
+    "name": "盘腿坐",
+    "tags": "sitting cross legged",
+    "category": "action"
+  },
+  {
+    "name": "侧卧",
+    "tags": "side lying",
+    "category": "action"
+  },
+  {
+    "name": "俯卧",
+    "tags": "lying prone",
+    "category": "action"
+  },
+  {
+    "name": "蹲姿",
+    "tags": "squatting",
+    "category": "action"
+  },
+  {
+    "name": "单膝跪地",
+    "tags": "one knee kneeling",
+    "category": "action"
+  },
+  {
+    "name": "靠墙",
+    "tags": "leaning against wall",
+    "category": "action"
+  },
+  {
+    "name": "趴桌",
+    "tags": "lying on desk",
+    "category": "action"
+  },
+  {
+    "name": "单脚站立",
+    "tags": "standing on one leg",
+    "category": "action"
+  },
+  {
+    "name": "举手",
+    "tags": "hand raised",
+    "category": "action"
+  },
+  {
+    "name": "遮脸",
+    "tags": "covering face",
+    "category": "action"
+  },
+  {
+    "name": "插兜",
+    "tags": "hands in pockets",
+    "category": "action"
+  },
+  {
+    "name": "握拳",
+    "tags": "clenched fist",
+    "category": "action"
+  },
+  {
+    "name": "双手合十",
+    "tags": "hands clasped",
+    "category": "action"
+  },
+  {
+    "name": "抱头",
+    "tags": "hands behind head",
+    "category": "action"
+  },
+  {
+    "name": "托下巴",
+    "tags": "hand under chin",
+    "category": "general"
+  },
+  {
+    "name": "扶额",
+    "tags": "palm on forehead",
+    "category": "general"
+  },
+  {
+    "name": "扶眼镜",
+    "tags": "adjusting glasses",
+    "category": "general"
+  },
+  {
+    "name": "鞠躬",
+    "tags": "bowing",
+    "category": "general"
+  },
+  {
+    "name": "弯腰",
+    "tags": "bending over",
+    "category": "general"
+  },
+  {
+    "name": "侧身",
+    "tags": "side profile",
+    "category": "general"
+  },
+  {
+    "name": "转身",
+    "tags": "turning around",
+    "category": "general"
+  },
+  {
+    "name": "后退",
+    "tags": "stepping back",
+    "category": "general"
+  },
+  {
+    "name": "蹦跳",
+    "tags": "hopping",
+    "category": "general"
+  },
+  {
+    "name": "爬行",
+    "tags": "crawling on all fours",
+    "category": "general"
+  },
+  {
+    "name": "翻滚",
+    "tags": "somersault",
+    "category": "general"
+  },
+  {
+    "name": "滑步",
+    "tags": "sliding step",
+    "category": "general"
+  },
+  {
+    "name": "扶墙",
+    "tags": "leaning on wall",
+    "category": "general"
+  },
+  {
+    "name": "整理衣服",
+    "tags": "adjusting clothes",
+    "category": "general"
+  },
+  {
+    "name": "全身站立照",
+    "tags": "full body shot",
+    "category": "general"
+  },
+  {
+    "name": "自拍姿势",
+    "tags": "taking selfie",
+    "category": "portrait"
+  },
+  {
+    "name": "瑜伽姿势",
+    "tags": "yoga pose",
+    "category": "general"
+  },
+  {
+    "name": "打哈欠",
+    "tags": "yawning",
+    "category": "portrait"
+  },
+  {
+    "name": "抱膝",
+    "tags": "hugging knees",
+    "category": "general"
+  },
+  {
+    "name": "眨眼",
+    "tags": "winking",
+    "category": "portrait"
+  },
+  {
+    "name": "飞吻",
+    "tags": "blowing kiss",
+    "category": "portrait"
+  },
+  {
+    "name": "踮脚尖",
+    "tags": "standing on tiptoes",
+    "category": "general"
+  },
+  {
+    "name": "吐舌",
+    "tags": "tongue out",
+    "category": "expression"
+  },
+  {
+    "name": "撩头发",
+    "tags": "hair flip",
+    "category": "action"
+  },
+  {
+    "name": "偷看",
+    "tags": "peeking",
+    "category": "action"
+  },
+  {
+    "name": "撑伞",
+    "tags": "holding umbrella",
+    "category": "action"
+  },
+  {
+    "name": "抱东西",
+    "tags": "hugging something",
+    "category": "action"
+  },
+  {
+    "name": "侧坐",
+    "tags": "sitting sideways",
+    "category": "pose"
+  },
+  {
+    "name": "翘腿坐",
+    "tags": "sitting cross-legged",
+    "category": "pose"
+  },
+  {
+    "name": "滑手机",
+    "tags": "using smartphone",
+    "category": "action"
+  },
+  {
+    "name": "戴耳机",
+    "tags": "wearing headphones",
+    "category": "accessory"
+  },
+  {
+    "name": "看书",
+    "tags": "reading book",
+    "category": "action"
+  },
+  {
+    "name": "比心",
+    "tags": "hand heart",
+    "category": "gesture"
+  },
+  {
+    "name": "打电话",
+    "tags": "on phone call",
+    "category": "action"
+  },
+  {
+    "name": "趴床",
+    "tags": "lying on stomach",
+    "category": "pose"
+  },
+  {
+    "name": "扎头发",
+    "tags": "tying hair",
+    "category": "action"
+  },
+  {
+    "name": "靠窗",
+    "tags": "leaning on window",
+    "category": "pose"
+  },
+  {
+    "name": "揉眼睛",
+    "tags": "rubbing eyes",
+    "category": "action"
+  },
+  {
+    "name": "系鞋带",
+    "tags": "tying shoelaces",
+    "category": "action"
+  },
+  {
+    "name": "瘫沙发",
+    "tags": "lounging on sofa",
+    "category": "pose"
+  },
+  {
+    "name": "浇花",
+    "tags": "watering plants",
+    "category": "action"
+  },
+  {
+    "name": "骑车",
+    "tags": "riding bicycle",
+    "category": "action"
+  },
+  {
+    "name": "荡秋千",
+    "tags": "swinging on swing",
+    "category": "action"
+  },
+  {
+    "name": "晃脚",
+    "tags": "dangling feet",
+    "category": "action"
+  },
+  {
+    "name": "勾手指",
+    "tags": "beckoning",
+    "category": "gesture"
+  },
+  {
+    "name": "举杯",
+    "tags": "raising a glass",
+    "category": "action"
+  },
+  {
+    "name": "玩水",
+    "tags": "splashing water",
+    "category": "general"
+  },
+  {
+    "name": "照镜子",
+    "tags": "looking in mirror",
+    "category": "general"
+  },
+  {
+    "name": "裹被子",
+    "tags": "wrapped in blanket",
+    "category": "portrait"
+  },
+  {
+    "name": "化妆",
+    "tags": "applying makeup",
+    "category": "portrait"
+  },
+  {
+    "name": "戴帽子",
+    "tags": "wearing hat",
+    "category": "general"
+  },
+  {
+    "name": "闻花",
+    "tags": "smelling flower",
+    "category": "portrait"
+  },
+  {
+    "name": "捧脸",
+    "tags": "cupping face in hands",
+    "category": "portrait"
+  },
+  {
+    "name": "敷面膜",
+    "tags": "wearing face mask",
+    "category": "portrait"
+  },
+  {
+    "name": "跳绳",
+    "tags": "jumping rope",
+    "category": "general"
+  },
+  {
+    "name": "溜冰",
+    "tags": "ice skating",
+    "category": "general"
+  },
+  {
+    "name": "滑板",
+    "tags": "skateboarding",
+    "category": "general"
+  },
+  {
+    "name": "咬手指",
+    "tags": "biting finger",
+    "category": "portrait"
+  },
+  {
+    "name": "摸后脑勺",
+    "tags": "hand on back of head",
+    "category": "portrait"
+  },
+  {
+    "name": "张开双臂",
+    "tags": "arms wide open",
+    "category": "general"
+  },
+  {
+    "name": "指远方",
+    "tags": "pointing into distance",
+    "category": "general"
+  },
+  {
+    "name": "吹泡泡",
+    "tags": "blowing bubbles",
+    "category": "general"
+  },
+  {
+    "name": "吹蜡烛",
+    "tags": "blowing out candles",
+    "category": "portrait"
+  },
+  {
+    "name": "打游戏",
+    "tags": "playing video games",
+    "category": "general"
+  },
+  {
+    "name": "遛狗",
+    "tags": "walking dog",
+    "category": "general"
+  },
+  {
+    "name": "推眼镜",
+    "tags": "pushing up glasses",
+    "category": "portrait"
+  },
+  {
+    "name": "看星星",
+    "tags": "stargazing",
+    "category": "general"
+  },
+  {
+    "name": "坐地上",
+    "tags": "sitting on ground",
+    "category": "general"
+  },
+  {
+    "name": "编辫子",
+    "tags": "braiding hair",
+    "category": "portrait"
+  },
+  {
+    "name": "涂口红",
+    "tags": "applying lipstick",
+    "category": "portrait"
+  },
+  {
+    "name": "刷牙",
+    "tags": "brushing teeth",
+    "category": "portrait"
+  },
+  {
+    "name": "泡澡",
+    "tags": "in bathtub",
+    "category": "general"
+  },
+  {
+    "name": "叠被子",
+    "tags": "making bed",
+    "category": "general"
+  },
+  {
+    "name": "滑滑梯",
+    "tags": "on slide",
+    "category": "general"
+  },
+  {
+    "name": "做鬼脸",
+    "tags": "silly face",
+    "category": "portrait"
+  },
+  {
+    "name": "许愿",
+    "tags": "wishing gesture",
+    "category": "portrait"
+  },
+  {
+    "name": "切菜",
+    "tags": "cutting vegetables",
+    "category": "general"
+  },
+  {
+    "name": "包饺子",
+    "tags": "wrapping dumplings",
+    "category": "general"
+  },
+  {
+    "name": "晾衣服",
+    "tags": "hanging laundry",
+    "category": "general"
+  },
+  {
+    "name": "插花",
+    "tags": "arranging flowers",
+    "category": "portrait"
+  },
+  {
+    "name": "泡茶",
+    "tags": "pouring tea",
+    "category": "general"
+  },
+  {
+    "name": "折纸",
+    "tags": "origami",
+    "category": "portrait"
+  },
+  {
+    "name": "钓鱼",
+    "tags": "fishing",
+    "category": "general"
+  },
+  {
+    "name": "烧烤",
+    "tags": "barbecue",
+    "category": "general"
+  },
+  {
+    "name": "打篮球",
+    "tags": "playing basketball",
+    "category": "general"
+  },
+  {
+    "name": "打羽毛球",
+    "tags": "playing badminton",
+    "category": "general"
+  },
+  {
+    "name": "野餐",
+    "tags": "picnic",
+    "category": "general"
+  },
+  {
+    "name": "下棋",
+    "tags": "playing chess",
+    "category": "portrait"
+  },
+  {
+    "name": "拼图",
+    "tags": "jigsaw puzzle",
+    "category": "portrait"
+  },
+  {
+    "name": "弹钢琴",
+    "tags": "playing piano",
+    "category": "general"
+  },
+  {
+    "name": "冲浪",
+    "tags": "surfing",
+    "category": "general"
+  },
+  {
+    "name": "划船",
+    "tags": "rowing boat",
+    "category": "general"
+  },
+  {
+    "name": "放烟花",
+    "tags": "fireworks",
+    "category": "general"
+  },
+  {
+    "name": "堆雪人",
+    "tags": "building snowman",
+    "category": "general"
+  },
+  {
+    "name": "玩手机",
+    "tags": "using phone",
+    "category": "portrait"
+  },
+  {
+    "name": "打电脑",
+    "tags": "using laptop",
+    "category": "portrait"
+  },
+  {
+    "name": "吃面条",
+    "tags": "eating noodles",
+    "category": "portrait"
+  },
+  {
+    "name": "做三明治",
+    "tags": "making sandwich",
+    "category": "portrait"
+  },
+  {
+    "name": "洗碗",
+    "tags": "washing dishes",
+    "category": "general"
+  },
+  {
+    "name": "洗衣服",
+    "tags": "washing clothes",
+    "category": "general"
+  },
+  {
+    "name": "放风筝",
+    "tags": "flying kite",
+    "category": "general"
+  },
+  {
+    "name": "玩积木",
+    "tags": "playing with blocks",
+    "category": "general"
+  },
+  {
+    "name": "揉面团",
+    "tags": "kneading dough",
+    "category": "portrait"
+  },
+  {
+    "name": "打太极拳",
+    "tags": "doing tai chi",
+    "category": "general"
+  },
+  {
+    "name": "转呼啦圈",
+    "tags": "hula hoop",
+    "category": "general"
+  },
+  {
+    "name": "踢足球",
+    "tags": "playing soccer",
+    "category": "general"
+  },
+  {
+    "name": "打网球",
+    "tags": "playing tennis",
+    "category": "general"
+  },
+  {
+    "name": "举哑铃",
+    "tags": "lifting dumbbells",
+    "category": "general"
+  },
+  {
+    "name": "捡贝壳",
+    "tags": "picking seashells",
+    "category": "general"
+  },
+  {
+    "name": "涂指甲油",
+    "tags": "painting nails",
+    "category": "portrait"
+  },
+  {
+    "name": "做陶艺",
+    "tags": "making pottery",
+    "category": "general"
+  },
+  {
+    "name": "露营",
+    "tags": "camping",
+    "category": "general"
+  },
+  {
+    "name": "搭帐篷",
+    "tags": "pitching tent",
+    "category": "general"
+  },
+  {
+    "name": "蹦极",
+    "tags": "bungee jumping",
+    "category": "general"
+  },
+  {
+    "name": "削铅笔",
+    "tags": "sharpening pencil",
+    "category": "portrait"
+  },
+  {
+    "name": "烧水",
+    "tags": "boiling water",
+    "category": "portrait"
+  },
+  {
+    "name": "扫地",
+    "tags": "sweeping floor",
+    "category": "general"
+  },
+  {
+    "name": "吃冰淇淋",
+    "tags": "eating ice cream",
+    "category": "portrait"
+  },
+  {
+    "name": "爬树",
+    "tags": "climbing tree",
+    "category": "general"
+  },
+  {
+    "name": "插入式口交",
+    "tags": "irrumatio",
+    "category": "action"
+  },
+  {
+    "name": "口内射精",
+    "tags": "cum in mouth",
+    "category": "action"
+  },
+  {
+    "name": "双腿大开",
+    "tags": "spread legs",
+    "category": "action"
+  },
+  {
+    "name": "仰卧躺平",
+    "tags": "lying on back",
+    "category": "action"
+  },
+  {
+    "name": "抓胸揉胸",
+    "tags": "groping breast",
+    "category": "action"
+  },
+  {
+    "name": "倒立69式深喉全套",
+    "tags": "reverse fellatio",
+    "category": "action"
+  },
+  {
+    "name": "压制撕衣",
+    "tags": "pinned down",
+    "category": "action"
+  },
+  {
+    "name": "后入抓翅膀",
+    "tags": "doggystyle",
+    "category": "action"
+  },
+  {
+    "name": "悬空抱操潮吹",
+    "tags": "standing carry sex",
+    "category": "action"
+  },
+  {
+    "name": "滑雪",
+    "tags": "skiing",
+    "category": "action"
+  },
+  {
+    "name": "打雪仗",
+    "tags": "snowball fight",
+    "category": "action"
+  },
+  {
+    "name": "玩魔方",
+    "tags": "rubik's cube",
+    "category": "action"
+  },
+  {
+    "name": "踢毽子",
+    "tags": "playing jianzi",
+    "category": "action"
+  },
+  {
+    "name": "攀岩",
+    "tags": "rock climbing",
+    "category": "action"
+  },
+  {
+    "name": "写日记",
+    "tags": "writing diary",
+    "category": "action"
+  },
+  {
+    "name": "喂猫",
+    "tags": "feeding cat",
+    "category": "action"
+  },
+  {
+    "name": "吃火锅",
+    "tags": "eating hotpot",
+    "category": "action"
+  },
+  {
+    "name": "拆礼物",
+    "tags": "unwrapping gift",
+    "category": "action"
+  },
+  {
+    "name": "写毛笔字",
+    "tags": "calligraphy",
+    "category": "action"
+  },
+  {
+    "name": "赏花",
+    "tags": "looking at flowers",
+    "category": "action"
+  },
+  {
+    "name": "踩水坑",
+    "tags": "stepping in puddle",
+    "category": "action"
+  },
+  {
+    "name": "堆沙堡",
+    "tags": "building sandcastle",
+    "category": "action"
+  },
+  {
+    "name": "开车",
+    "tags": "driving",
+    "category": "action"
+  },
+  {
+    "name": "喝奶茶",
+    "tags": "drinking bubble tea",
+    "category": "action"
+  },
+  {
+    "name": "骑马",
+    "tags": "horseback riding",
+    "category": "action"
+  },
+  {
+    "name": "抛接球",
+    "tags": "juggling",
+    "category": "action"
+  },
+  {
+    "name": "摘草莓",
+    "tags": "picking strawberries",
+    "category": "action"
+  },
+  {
+    "name": "打水漂",
+    "tags": "skipping stones",
+    "category": "action"
+  },
+  {
+    "name": "煎蛋",
+    "tags": "frying egg",
+    "category": "action"
+  },
+  {
+    "name": "逛超市",
+    "tags": "grocery shopping",
+    "category": "action"
+  },
+  {
+    "name": "拖地",
+    "tags": "mopping floor",
+    "category": "action"
+  },
+  {
+    "name": "练瑜伽",
+    "tags": "yoga",
+    "category": "action"
+  },
+  {
+    "name": "倒立",
+    "tags": "handstand",
+    "category": "action"
+  },
+  {
+    "name": "吹口哨",
+    "tags": "whistling",
+    "category": "action"
+  },
+  {
+    "name": "吹笛子",
+    "tags": "playing flute",
+    "category": "music"
+  },
+  {
+    "name": "打鼓",
+    "tags": "playing drums",
+    "category": "music"
+  },
+  {
+    "name": "剥香蕉",
+    "tags": "peeling banana",
+    "category": "food"
+  },
+  {
+    "name": "劈叉",
+    "tags": "doing splits",
+    "category": "flexibility"
+  },
+  {
+    "name": "采蘑菇",
+    "tags": "picking mushrooms",
+    "category": "foraging"
+  },
+  {
+    "name": "吃爆米花",
+    "tags": "eating popcorn",
+    "category": "food"
+  },
+  {
+    "name": "打台球",
+    "tags": "playing billiards",
+    "category": "sports"
+  },
+  {
+    "name": "捉迷藏",
+    "tags": "hide and seek",
+    "category": "play"
+  },
+  {
+    "name": "抓娃娃",
+    "tags": "playing claw machine",
+    "category": "play"
+  },
+  {
+    "name": "看电影",
+    "tags": "watching movie",
+    "category": "leisure"
+  },
+  {
+    "name": "做实验",
+    "tags": "doing experiment",
+    "category": "science"
+  },
+  {
+    "name": "打坐",
+    "tags": "sitting meditation",
+    "category": "meditation"
+  },
+  {
+    "name": "俯卧撑",
+    "tags": "doing push-ups",
+    "category": "exercise"
+  },
+  {
+    "name": "看漫画",
+    "tags": "reading manga",
+    "category": "leisure"
+  },
+  {
+    "name": "逛街",
+    "tags": "window shopping",
+    "category": "shopping"
+  },
+  {
+    "name": "压腿",
+    "tags": "leg stretching",
+    "category": "flexibility"
+  },
+  {
+    "name": "做仰卧起坐",
+    "tags": "doing sit-ups",
+    "category": "exercise"
+  },
+  {
+    "name": "看日出",
+    "tags": "watching sunrise",
+    "category": "outdoors"
+  },
+  {
+    "name": "赏月",
+    "tags": "moon gazing",
+    "category": "outdoors"
+  },
+  {
+    "name": "坐过山车",
+    "tags": "riding roller coaster",
+    "category": "amusement"
+  },
+  {
+    "name": "骑摩托车",
+    "tags": "riding motorcycle",
+    "category": "transport"
+  },
+  {
+    "name": "穿鞋子",
+    "tags": "putting on shoes",
+    "category": "daily"
+  },
+  {
+    "name": "吃药",
+    "tags": "taking medicine",
+    "category": "health"
+  },
+  {
+    "name": "爬山",
+    "tags": "hiking",
+    "category": "outdoors"
+  }
+]
