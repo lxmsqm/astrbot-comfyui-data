@@ -1243,5 +1243,25 @@
     "name": "爬山",
     "tags": "hiking",
     "category": "outdoors"
+  },
+  {
+    "name": "弓步前倾扭腰",
+    "tags": "lunging stance, arched back, twisted torso, hips pushed back, chest pushed forward, leaning forward, side view, glancing back at viewer, half-lidded eyes",
+    "style": "portrait"
+  },
+  {
+    "name": "单膝微蹲抬胯",
+    "tags": "crouching on one knee, hips raised, leaning forward, one hand resting on thigh, dynamic low pose, looking up at viewer, parted lips",
+    "style": "portrait"
+  },
+  {
+    "name": "侧身翘臀回眸",
+    "tags": "standing, side view, hips shifted to one side, hand on hip, back arched, torso turned away, glancing back at viewer, suggestive",
+    "style": "portrait"
+  },
+  {
+    "name": "扶靠抬腿撩姿",
+    "tags": "leaning against wall, one leg raised with knee bent, hand on thigh, head tilted back, arched back, parted lips, seductive posture",
+    "style": "portrait"
   }
 ]
